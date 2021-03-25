@@ -1,4 +1,4 @@
-# Cleckzie-Public
+# Cleckzie-Bot
 
 A multi-purpose discord bot; currently in development. 
 
