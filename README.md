@@ -1,11 +1,11 @@
 # Cleckzie-Public
 
 Things to change: <br> 
-Get an API key in https://api.monkedev.com/docs/ for chatbot <br> <br>
-<b>config.json </b>:  prefix and token <br>
-<b> eval.js: </b> your user id <br>
+Get an API key in https://api.monkedev.com/docs/ for the chat bot feature. <br> <br>
+<b>config.json </b>:  Prefix and Token <br>
+<b> eval.js: </b> Your User ID. <br>
 
-Required Dependencies: <br>
+<font color = "blue"Required Dependencies </font>: <br>
 npm i moment <br>
 npm i ascii-table <br>
 npm i discord.js <br>
