@@ -1,0 +1,35 @@
+{
+  "name": "cleckzie-bot",
+  "version": "1.0.0",
+  "description": "A multi-purpose Discord bot.",
+  "main": "index.js",
+  "engines": {
+    "node": "12.19.0"
+  },
+  "scripts": {
+    "start": "index.js",
+    "dev": "index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord-bot"
+  ],
+  "author": "SpreeHertz",
+  "license": "ISC",
+  "dependencies": {
+    "@iamtraction/google-translate": "^1.1.2",
+    "ascii-table": "0.0.9",
+    "axios": "^0.21.1",
+    "canvacord": "^5.1.0",
+    "canvas": "^2.7.0",
+    "common-tags": "^1.8.0",
+    "discord.js": "github:monbrey/discord.js#inline-replies",
+    "git": "^0.1.5",
+    "got": "^11.8.2",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1",
+    "node-superfetch": "^0.1.11",
+    "reconlx": "^1.2.31",
+    "util": "^0.12.3"
+  }
+}
