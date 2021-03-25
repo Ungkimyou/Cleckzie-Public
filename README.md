@@ -1,6 +1,3 @@
-# Cleckzie Bot
-
-A multi-purpose discord bot; currently in development. 
 
 <h1> Things to change: </h1> <br>
 Get an API key in https://api.monkedev.com/docs for the chat bot feature. <br> <br>
