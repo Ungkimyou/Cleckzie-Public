@@ -1,3 +1,7 @@
 # Cleckzie-Public
 
-Remember to change the config.json token to your bot and the prefix of your choice.
+Things to change:
+Get an API key in https://api.monkedev.com/docs/ .
+config.json: prefix and token
+
+
