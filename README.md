@@ -1,5 +1,7 @@
 # Cleckzie-Public
 
+A multi-purpose discord bot; currently in development. 
+
 Things to change: <br> 
 Get an API key in https://api.monkedev.com/docs/ for the chat bot feature. <br> <br>
 <b>config.json </b>:  Prefix and Token <br>
