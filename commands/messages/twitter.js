@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const request = require("node-superfetch");
 let {stripIndents} = require('common-tags');
-let bearer = "AAAAAAAAAAAAAAAAAAAAAMGKNwEAAAAA%2Bq%2BaHqz4Op1YarKgcNDaNKJzoto%3Dqo7RTmQRZKaiJDoCSvxFG151oUJ7lBj7PcQVVPeeGRcsUaHUVV"
+let bearer = "ur Twitter api key"
 
 module.exports = {
     name: "twitter",
