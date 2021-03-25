@@ -4,6 +4,7 @@ Get an API key in https://api.monkedev.com/docs for the chat bot feature. <br> <
 <b>config.json </b>:  Prefix and Token <br>
 <b> eval.js: </b> Your User ID. <br>
 <b> slap.js: </b> You can put in any name in the 26th line. (image, 'cleckziedb.png')
+<b> twitter.js </b> Go to https://developers.twitter.com and sign up, then get your API key and specify it in your code.
 
 <h1>Required Dependencies: </h1> <br>
 <p> Type the info below on your terminal. (Ctrl + Shift + ` ) </p>
