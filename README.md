@@ -18,5 +18,7 @@ npm i got <br>
 npm i node-fetch <br>
 npm i axios <br>
 npm i reconlx <br>
+npm i canvacord <br>
+npm i canvas <br> 
 
 </div>
