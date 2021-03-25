@@ -5,7 +5,7 @@ Get an API key in https://api.monkedev.com/docs/ for the chat bot feature. <br> 
 <b>config.json </b>:  Prefix and Token <br>
 <b> eval.js: </b> Your User ID. <br>
 
-<font color = "blue"Required Dependencies </font>: <br>
+<h1>Required Dependencies </h1>: <br>
 npm i moment <br>
 npm i ascii-table <br>
 npm i discord.js <br>
